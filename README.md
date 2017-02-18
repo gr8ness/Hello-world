@@ -1,4 +1,4 @@
 # Hello-world
 My very first project
 
-Hello. I am interested in becoming a web developer. Github is teaching me the ins and outs of web development.
+Hello this web page is going to be about my motorcyle journey. It is going to cover how I learned how to ride, my first acident, motorcycle club, how my bike was stolen and how i bought a new bike.
